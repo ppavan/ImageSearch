@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Main Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">Enter Keyword Search Term</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_details">Details Activity</string>
+
+</resources>

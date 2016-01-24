@@ -1,0 +1,43 @@
+#
+# generated on 2014/11/02 01:48:06
+#
+# --table-start--
+dataClass=com.example.midtermapp.KeywordDetails
+tableName=keyworddetails
+# --table-fields-start--
+# --field-start--
+fieldName=keyword
+id=true
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.example.midtermapp.ParsedDetail
+tableName=parseddetail
+# --table-fields-start--
+# --field-start--
+fieldName=photoUrl
+id=true
+# --field-end--
+# --field-start--
+fieldName=photoName
+# --field-end--
+# --field-start--
+fieldName=searchterm
+# --field-end--
+# --field-start--
+fieldName=ownerName
+# --field-end--
+# --field-start--
+fieldName=ownerUrl
+# --field-end--
+# --field-start--
+fieldName=UserNote
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
